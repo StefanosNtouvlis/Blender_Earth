@@ -24,10 +24,12 @@ In this project, I've ventured into the realms of 3D animation to bring the Eart
    ```
 
 3. **Open in Blender:**
-   - Launch Blender.
-   - Open the project file: `earth_rotation_animation.blend`.
+   - Launch Blender 4.0.
+   - Open the project file: `earth.blend`.
+   - Experiment
 
-4. **Play the Animation:**
+4. **Enjoy the Animation:**
+   - Open the animation file `earthanimation.blend`.
    - Witness the Earth's mesmerizing rotation and observe the dynamic transitions between day and night.
 
 5. **Listen to NASA Sounds:**
@@ -39,11 +41,7 @@ Feel free to contribute to this project by opening issues, suggesting improvemen
 
 ## Acknowledgments
 
-A special thanks to NASA for providing the captivating sounds that elevate the immersive quality of this project. Let's continue to explore the wonders of our universe together! 🌌
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+A special thanks to NASA for providing the captivating sounds that elevate the immersive quality of this project, as well the textures used. Let's continue to explore the wonders of our universe together! 🌌
 
 ---
 
