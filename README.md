@@ -20,7 +20,7 @@ In this project, I've ventured into the realms of 3D animation to bring the Eart
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/EarthRotationAnimation.git
+   git clone https://github.com/YourUsername/Blender_Earth.git
    ```
 
 3. **Open in Blender:**
